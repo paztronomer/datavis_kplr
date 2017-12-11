@@ -1,4 +1,5 @@
 # datavis_kplr
+## subsampling of the points
 To share data with Doris Lee & Omar Paredes
 
 Columns
