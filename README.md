@@ -1,5 +1,5 @@
 # datavis_kplr
-To share data with Doris Lee
+To share data with Doris Lee & Omar Paredes
 
 Columns
  - Q: season
@@ -13,3 +13,4 @@ Columns
  - teff: physical parameter, effective temperature. Units: [K]
  
  From PazChinchon+15
+ http://iopscience.iop.org/article/10.1088/0004-637X/803/2/69/meta
