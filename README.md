@@ -2,7 +2,7 @@
 ## subsampling of the points
 To share data with Doris Lee & Omar Paredes
 
-**Note: LCs are subsampled to 1/2 of the data points, to reduce calculation time withour compromise small scales**
+**Note: LCs are subsampled to 1/2 of the data points, to reduce calculation time without compromise small scales**
 
 Columns
  - Q: season
