@@ -2,6 +2,8 @@
 ## subsampling of the points
 To share data with Doris Lee & Omar Paredes
 
+**Note: LCs are subsampled to 1/2 of the data points, to reduce calculation time withour compromise small scales**
+
 Columns
  - Q: season
  - nflux: y-axis, flux. Units: [e- cadence-1]
